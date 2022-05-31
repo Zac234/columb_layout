@@ -1,0 +1,26 @@
+body{
+    background-color: yellow;
+}
+
+#red{
+    background-color: red;
+    padding-left: 5px;
+    padding-right: 5px;
+    size:25%
+}
+#blue{
+    background-color: blue;
+    padding-right: 5px;
+    size: 25%;
+}
+#green{
+    background-color: green;
+    padding-right: 5px;
+    size:25%;
+}
+#purple{
+    background-color: purple;
+    padding-right: 5px;
+    size: 25%;
+    
+}
